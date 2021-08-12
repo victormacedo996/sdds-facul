@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.navbar-brand img{
+    width: 150px;
+}
+
+.background{
+    background-color: #EAEAEA;
+}
+
+.nav-item{
+    margin-right: 10px;
+}
+
+.style{
+    border-bottom: 5px solid black;
+    
+}
+
+.card-title{
+    font-size: 1.5em
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.form-title{
+    font-size: 1.5em;
+}
+
+.text-form{
+    color: #c9c9c9;
+}
+
+.service-terms{
+    margin-left: 5px;
+}
+
+.service-terms a{
+    text-decoration: none;
+}
+
+.service-terms a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    margin-top: 2vh;
+}
